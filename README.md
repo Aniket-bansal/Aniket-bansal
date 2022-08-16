@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-bansal&show_icons=true&locale=en&layout=compact" alt="aniket-bansal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-bansal&show_icons=true&locale=en" alt="aniket-bansal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aniket-bansal&show_icons=true&locale=en" alt="aniket-bansal" /></p>
