@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **back-end related things**
 
-- 👨‍💻 All of my projects are available at [https://aniket-bansal-portfolio.vercel.app/](https://aniket-bansal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aniket-bansal-portfolio.netlify.app/](https://aniket-bansal-portfolio.netlify.app/)
 
 - 💬 Ask me about **react**
 
